@@ -1,3 +1,1 @@
 # WhisperingStoneBot
-- Liquid addon token to break with github bot token scanning:
-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
